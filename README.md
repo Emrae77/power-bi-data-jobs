@@ -12,7 +12,7 @@ Folder: [`Data_Jobs_Dashboard_v1`](./Data_Jobs_Dashboard_v1)
 - Main summary page with KPIs and visuals
 - Drill-through page for job title–level details
 - Screenshots in `images/`
-- See its own [`README`](./Data_Jobs_Dashboard_v1/README.md) for full description
+- See its own [`README`]( Data_Jobs_Dashboard_v1/README.md) for full description
 
 ### 2. Data_Jobs_Dashboard_v2 (Single-page version)
 

@@ -7,7 +7,8 @@ The goal is to explore salaries, skills demand, job types, and trends for data r
 
 ### 1. Data_Jobs_Dashboard_v1 (Drill-through version)
 
-Folder: [`Data_Jobs_Dashboard_v1`](./Data_Jobs_Dashboard_v1)
+Folder: [`Data_Jobs_Dashboard_v1`](Data_Jobs_Dashboard_v1/README.md)
+
 
 - Main summary page with KPIs and visuals
 - Drill-through page for job title–level details
@@ -16,7 +17,8 @@ Folder: [`Data_Jobs_Dashboard_v1`](./Data_Jobs_Dashboard_v1)
 
 ### 2. Data_Jobs_Dashboard_v2 (Single-page version)
 
-Folder: [`Data_Jobs_Dashboard_v2`](./Data_Jobs_Dashboard_v2)
+Folder: [`Data_Jobs_Dashboard_v2`](Data_Jobs_Dashboard_v2/README.md)
+
 
 - Single-page, simplified dashboard for quick insight
 - Focused KPIs and interactive visuals
